@@ -6,3 +6,4 @@
     - key_url: https://apt.releases.hashicorp.com/gpg
     - enabled: True
     - clean_file: True
+    - refresh: true
